@@ -1,0 +1,17 @@
+{
+  "name": "markdown-it-codeability",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "markdown-it plugin for codeability",
+  "main": "index.js",
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin"
+  ],
+  "devDependencies": {
+    "markdown-it": "^13.0.1"
+  },
+  "scripts": {
+  }
+}
