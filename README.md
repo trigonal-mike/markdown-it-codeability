@@ -5,11 +5,11 @@
 ## Usage
 
 ``` js
-import { CTUTOR_JSON } from './ca';
+import { SAMPLE_CONFIG } from 'markdown-it-codeability/sample_json';
 
 var md = require('markdown-it')()
 .use(require('markdown-it-codeability'), {
-    config: CTUTOR_JSON
+    config: SAMPLE_CONFIG
 })
 ```
 
